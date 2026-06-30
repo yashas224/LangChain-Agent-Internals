@@ -23,6 +23,12 @@ LangSimth Screenshots
 ![](assets/demo2c.png)
 
 
+### Implementing ReAct Agent using only ReAct Prompt Engineering [no tools]
+[agent_loop_raw_function_calling.py]
+
+LangSmith trace- https://smith.langchain.com/public/1b0f6df6-e6d0-4cae-be6f-789261495c42/r/019f192d-9e79-7fe1-acf3-be4e28641abb
+
+
 
 
 
